@@ -1,0 +1,39 @@
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\bin\Debug\bet365.exe
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\bin\Debug\bet365.pdb
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\bin\Debug\WebDriver.dll
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\bin\Debug\WebDriver.Support.dll
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\bin\Debug\WebDriver.xml
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\bin\Debug\WebDriver.Support.pdb
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\bin\Debug\WebDriver.Support.xml
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\obj\x86\Debug\bet365.Form1.resources
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\obj\x86\Debug\bet365.Properties.Resources.resources
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\obj\x86\Debug\bet365.csproj.GenerateResource.Cache
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\obj\x86\Debug\bet365.exe
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\obj\x86\Debug\bet365.pdb
+D:\Dcjet.svn\研发项目\1323 自动化测试平台\源代码\UITests\bet365\bin\Debug\Newtonsoft.Json.dll
+G:\C#\bet365\bin\Debug\bet365.exe
+G:\C#\bet365\bin\Debug\bet365.pdb
+G:\C#\bet365\bin\Debug\Newtonsoft.Json.dll
+G:\C#\bet365\obj\x86\Debug\bet365.Form1.resources
+G:\C#\bet365\obj\x86\Debug\bet365.Properties.Resources.resources
+G:\C#\bet365\obj\x86\Debug\bet365.csproj.GenerateResource.cache
+G:\C#\bet365\obj\x86\Debug\bet365.csproj.CoreCompileInputs.cache
+G:\C#\bet365\obj\x86\Debug\bet365.csproj.CopyComplete
+G:\C#\bet365\obj\x86\Debug\bet365.exe
+G:\C#\bet365\obj\x86\Debug\bet365.pdb
+F:\365\短信版源代码\bet365\obj\x86\Debug\bet365.exe
+F:\365\短信版源代码\bet365\obj\x86\Debug\bet365.pdb
+F:\365\短信版源代码\bet365\bin\Debug\bet365.exe
+F:\365\短信版源代码\bet365\bin\Debug\bet365.pdb
+F:\365\短信版源代码\bet365\obj\x86\Debug\bet365.csprojResolveAssemblyReference.cache
+F:\365\短信版源代码\bet365\obj\x86\Debug\bet365.Form1.resources
+F:\365\短信版源代码\bet365\obj\x86\Debug\bet365.Properties.Resources.resources
+F:\365\短信版源代码\bet365\obj\x86\Debug\bet365.csproj.GenerateResource.Cache
+E:\bet\bet365\obj\x86\Debug\bet365.exe
+E:\bet\bet365\obj\x86\Debug\bet365.pdb
+E:\bet\bet365\bin\Debug\bet365.exe
+E:\bet\bet365\bin\Debug\bet365.pdb
+E:\bet\bet365\obj\x86\Debug\bet365.Form1.resources
+E:\bet\bet365\obj\x86\Debug\bet365.Properties.Resources.resources
+E:\bet\bet365\obj\x86\Debug\bet365.csproj.GenerateResource.Cache
+E:\bet\bet365\obj\x86\Debug\bet365.csprojResolveAssemblyReference.cache
