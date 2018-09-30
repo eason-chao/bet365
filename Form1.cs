@@ -15,6 +15,7 @@ using System.Media;
 
 namespace bet365
 {
+//曾经的梦想
     public partial class Form1 : Form
     {
         public Form1()
